@@ -3,6 +3,9 @@
 ## Project Overview
 This project is a Power BI dashboard designed to analyze and visualize the sales performance of Reliance products across different regions, periods, and product categories. It aims to provide clear, actionable insights for decision-makers to enhance sales strategies, monitor KPIs, and identify growth opportunities.
 
+## About
+This Power BI report provides a visualization of sales data related to Reliance. It includes different charts, metrics, and dashboards based on the provided dataset.
+
 ## Key Features
 - 📈 **Sales Performance Analysis**: Overall revenue, quantity sold, and profit metrics.
 - 🌎 **Regional Breakdown**: Insights into sales by region, city, and state.
@@ -26,8 +29,11 @@ This project is a Power BI dashboard designed to analyze and visualize the sales
 - **Maps** (Geographic distribution of sales)
 - **Filters/Slicers** (Date Range, Category, Region)
 
+## Requirements
+- Microsoft Power BI Desktop to open the `.pbix` file
+- 
 ## How to Use
-1. Open the `Reliance Sales Report. pbix` file in Power BI Desktop.
+1. Open the `Reliance Sales Report. pbix file in Power BI Desktop.
 2. Refresh the data source if connected to live data.
 3. Use slicers/filters to customize the view based on your needs.
 4. Hover over charts for detailed tooltips and insights.
@@ -37,3 +43,12 @@ This project is a Power BI dashboard designed to analyze and visualize the sales
 - Add predictive analytics for forecasting future sales.
 - Integrate customer satisfaction and feedback data.
 - Incorporate real-time sales monitoring with live datasets.
+
+## File Details
+- **File Name**: Reliance Sales Report.pbix
+- **File Type**: Power BI Desktop File (`.pbix`)
+
+## Contents
+- Interactive report pages with sales-related visualizations
+- Use of Power BI visuals for data analysis
+- Filters and slicers for dynamic data exploration
